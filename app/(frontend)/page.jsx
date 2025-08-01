@@ -39,7 +39,7 @@ export default function Home({ _, searchParams }) {
         <h1 className="title">Overlays</h1>
         <hr />
 
-        <h2 className="title">Share / Install overlays</h2>
+        <h2 className="title">Share / Install overlays (ADDING NEW TEXT)</h2>
         <h3 className="subtitle">
           Use the buttons below to generate a code and share your own overlay or install it from a code sent to you.
         </h3>
